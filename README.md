@@ -4,7 +4,7 @@
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">                                                                                                                                                                                                                                                                                                                                                                                                                      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=def-true&label=Profile%20views&color=0e75b6&style=flat" alt="def-true" /> </p>
 
-
+    
 - 📜 Educational Info : I'm a student in Cambrian School and College
 
 - 🌱 I’m actively learning **C, C++, Python, SQL**
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hamim saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamim saad" height="30" width="40" /></a>
+
 <a href="https://fb.com/hamim elahi sa'ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamim elahi sa'ad" height="30" width="40" /></a>
 <a href="https://instagram.com/kakashi_hatake.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kakashi_hatake.py" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/creative tech tips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="creative tech tips" height="30" width="40" /></a>
