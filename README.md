@@ -1,3 +1,5 @@
+![logo](https://github.com/DEF-TRUE/DEF-TRUE/blob/main/Yellow%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Hamim Elahi Saad</h1>
 <h3 align="center">I am a future data analyst and a student from Bangladesh reading in Cambrian College.Through my GitHub profile, I embark on a journey of exploration, sharing the fruits of my analysis and the wisdom gained from every dataset encountered and will be sharing with everyone my idea through projects and insights.</h3>
 
